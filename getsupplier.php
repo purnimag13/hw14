@@ -23,12 +23,6 @@
           }   
     }
 
-    // if($row=mysqli_fetch_array($result)){
-    //   echo "Your company name is ".$row["CompanyName"];
-    // } else {
-    //   echo "Your company name cannot be found.";
-    // }
-
   ?>
 </body>
 </html>
